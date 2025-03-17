@@ -1,8 +1,8 @@
-package main
+package lv3
 
 import "fmt"
 
-func main() {
+func Ex1() {
 	x := 1
 	for x <= 10000 {
 		fmt.Println(x)

@@ -1,8 +1,8 @@
-package main
+package _switch
 
 import "fmt"
 
-func main() {
+func Ex_switch() {
 	x := 5
 	switch x {
 	case 1:

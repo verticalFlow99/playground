@@ -1,8 +1,8 @@
-package main
+package array
 
 import "fmt"
 
-func main() {
+func Ex_array() {
 	var x [5]int
 	fmt.Println(x[0])
 	x[2] = 100

@@ -1,8 +1,8 @@
-package main
+package lv3
 
 import "fmt"
 
-func main() {
+func Ex3() {
 	x := 1994
 	now := 2025
 	for x <= now {

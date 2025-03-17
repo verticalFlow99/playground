@@ -1,14 +1,9 @@
 package main
 
-import "fmt"
+import "go_basic/fuction"
 
 func main() {
-	x := 42
-	fmt.Println("x is", x)
-	x = 99
-	fmt.Println("x is", x)
-	y := 100 + 70
-	fmt.Println("y is", y)
-	z := "goland"
-	fmt.Println("z is", z)
+
+	fuction.Ex_recursiveCall(3)
+
 }

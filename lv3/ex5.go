@@ -1,8 +1,8 @@
-package main
+package lv3
 
 import "fmt"
 
-func main() {
+func Ex5() {
 	x := 10
 	for x <= 100 {
 		if x%4 == 0 {

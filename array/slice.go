@@ -1,8 +1,8 @@
-package main
+package array
 
 import "fmt"
 
-func main() {
+func Ex_slice() {
 
 	// x := []type{values}
 	arr1 := []int{1, 2, 3, 7, 8}

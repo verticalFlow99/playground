@@ -1,4 +1,4 @@
-package main
+package lv1
 
 import "fmt"
 
@@ -7,7 +7,7 @@ type mytype int
 var x mytype
 var y int
 
-func main() {
+func Ex_lv1() {
 	fmt.Println(x)
 	fmt.Printf("%T\n", x)
 	x = 30

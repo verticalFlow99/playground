@@ -1,3 +1,3 @@
-module example.com/mymodule
+module go_basic
 
 go 1.24.1
