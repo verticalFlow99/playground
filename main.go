@@ -1,9 +1,8 @@
 package main
 
-import "go_basic/fuction"
+import "go_basic/function"
 
 func main() {
 
-	fuction.Ex_recursiveCall(3)
-
+	function.ExFunctionType()
 }
