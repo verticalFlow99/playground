@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build range.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="golang" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <package value="go_basic" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/array/range.go" />
+    <method v="2" />
+  </configuration>
+</component>
