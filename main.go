@@ -4,5 +4,5 @@ import "go_basic/function"
 
 func main() {
 
-	function.ExFunctionType()
+	function.ExCallback()
 }
